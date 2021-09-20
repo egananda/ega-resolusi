@@ -1,1 +1,6 @@
+# resolusi saya kedepannya
 
+- Belajar PHP DASAR
+- Belajar PHP OOP
+- Membuat aplikasi sederhana 
+- Belajar PHP MVC
