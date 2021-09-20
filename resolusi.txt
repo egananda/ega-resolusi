@@ -8,9 +8,17 @@
 - Belajar Fremwork PHP
   ^ Codeigniter
   ^ Laravel
+  ^ YII
+  ^ Symfony
   
 
 - Belajar Frontend
 - JavaScript dasar
 - Membuat apikasi sederhana dengan javascript dasar
+- Belajar JavaScript ES6
+
+- Belajar Fremwork JS
+  ^ Vue
+  ^ Angular
+  ^ React
 
