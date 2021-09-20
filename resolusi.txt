@@ -12,4 +12,6 @@
 
 - Belajar Frontend
 - JavaScript dasar
+- Belajar JavaScript ES6
+- Membuat apikasi sederhana dengan javascript dasar
 
