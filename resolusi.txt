@@ -4,3 +4,7 @@
 - Belajar PHP OOP
 - Membuat aplikasi sederhana 
 - Belajar PHP MVC
+
+- Belajar Fremwork PHP
+  ^ Codeigniter
+  ^ Laravel
