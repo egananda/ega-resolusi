@@ -1,5 +1,7 @@
 # resolusi saya kedepannya
 
+- Belajar Bahasa English
+
 - Belajar PHP DASAR
 - Belajar PHP OOP
 - Membuat aplikasi sederhana 
@@ -8,9 +10,19 @@
 - Belajar Fremwork PHP
   ^ Codeigniter
   ^ Laravel
+  ^ YII
+  ^ Symfony
   
 
 - Belajar Frontend
 - JavaScript dasar
 - Membuat apikasi sederhana dengan javascript dasar
+- Belajar JavaScript ES6
+
+- Belajar Fremwork JS
+  ^ Vue
+  ^ Angular
+  ^ React
+  
+
 
