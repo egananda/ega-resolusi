@@ -8,3 +8,8 @@
 - Belajar Fremwork PHP
   ^ Codeigniter
   ^ Laravel
+  
+
+- Belajar Frontend
+- JavaScript dasar
+
