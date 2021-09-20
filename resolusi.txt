@@ -1,5 +1,7 @@
 # resolusi saya kedepannya
 
+- Belajar Bahasa English
+
 - Belajar PHP DASAR
 - Belajar PHP OOP
 - Membuat aplikasi sederhana 
@@ -21,4 +23,6 @@
   ^ Vue
   ^ Angular
   ^ React
+  
+
 
